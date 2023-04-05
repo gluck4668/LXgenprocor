@@ -1,0 +1,12 @@
+Package: LXgenprocor
+Type: Package
+Title: LXgenprocor
+Version: 2023.02
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXgenprocor can be used to analyze the correlation between the differently expressed genes (DEGs) and the differently expressed proteins (DEPs).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
